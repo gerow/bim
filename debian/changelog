@@ -1,0 +1,5 @@
+bim (1.1.5-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Mike Gerow <gerow@mgerow.com>  Mon, 19 Nov 2018 22:06:45 +0000
